@@ -1,0 +1,23 @@
+# LG Mobilidade Urbana
+
+> Consultoria técnica em planejamento, gestão e operação de transporte público para prefeituras, órgãos gestores, consórcios públicos e operadoras de ônibus. Sede em Curitiba/PR, atendimento em todo o Brasil.
+
+- Razão social: LG Mobilidade Urbana Ltda. · CNPJ 43.079.259/0001-82
+- Endereço: Rua Bom Jesus, 212, Juvevê, Curitiba/PR
+- Fundada em Curitiba, em 2021
+- Três áreas de serviço: Planejamento; Gestão e operação; Projetos e engenharia
+- Públicos: gestores públicos (prefeituras, secretarias de mobilidade, autarquias, empresas públicas de transporte e consórcios públicos) e operadoras (empresas de ônibus, cooperativas e consórcios operacionais)
+- Análises sem vínculo comercial com fornecedores de equipamentos ou sistemas
+- Contato: formulário "Fale com a LG", presente em todas as páginas
+
+## Páginas
+
+- [Home](https://sitelg.consultoriasdigitais.com.br/): o que a LG faz, as três áreas de serviço, as três etapas de trabalho e com quem a LG trabalha
+- [Quem Somos](https://sitelg.consultoriasdigitais.com.br/quem-somos.html): história da empresa, os quatro pilares, por que a LG existe e como ela trabalha
+- [Serviços](https://sitelg.consultoriasdigitais.com.br/servicos.html): o que está incluso e o que o cliente recebe em Planejamento, Gestão e operação e Projetos e engenharia, e os quatro passos para contratar
+- [Áreas de Atuação](https://sitelg.consultoriasdigitais.com.br/areas-de-atuacao.html): tipos de projeto para órgãos gestores e para operadoras, e o que muda para cada um
+
+## Optional
+
+- [Texto completo do site](https://sitelg.consultoriasdigitais.com.br/llms-full.txt): o texto das quatro páginas em um só arquivo
+- [Mapa do site](https://sitelg.consultoriasdigitais.com.br/sitemap.xml)
